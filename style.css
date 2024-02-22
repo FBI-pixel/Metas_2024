@@ -1,14 +1,10 @@
 * {
     text-align: center;
 }
-h1 {
+li {
     background-color: black;
     color: white;
 }
 body {
     background-color: gray;
-}
-h2 {
-    background-color: black;
-    color: white;
 }
