@@ -3,5 +3,5 @@ li {
     color: white;
 }
 body {
-    background: linear-gradient(red,black);
+    background: linear-gradient(rgb(255, 255, 255),rgb(0, 0, 0));
 }
