@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 
 body {
-    background: linear-gradient(rgb(0, 140, 255),rgb(118, 2, 212),black);
-    color: white;
-}
+    background: black;
